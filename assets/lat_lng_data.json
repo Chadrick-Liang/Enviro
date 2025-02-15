@@ -1,0 +1,982 @@
+[
+    {
+        "lat": "1.3309428",
+        "lng": "103.9381007",
+        "title": "116 Bedok North Road, Singapore",
+        "desc": "SGP013",
+        "key": 0
+    },
+    {
+        "lat": "1.3378898",
+        "lng": "103.7351164",
+        "title": "Jurong East Street 13, Ivory Heights, Singapore",
+        "desc": "SGP014",
+        "key": 1
+    },
+    {
+        "lat": "1.36953",
+        "lng": "103.8484398",
+        "title": "Ang Mo Kio Avenue 3, AMK Hub, Singapore",
+        "desc": "SGP017",
+        "key": 2
+    },
+    {
+        "lat": "1.3272685",
+        "lng": "103.9409107",
+        "title": "Bedok North Road, Block 78, Singapore",
+        "desc": "SGP018",
+        "key": 3
+    },
+    {
+        "lat": "1.3454626",
+        "lng": "103.7168323",
+        "title": "Corporation Road, NKF Integrated Renal Centre supported by The Sirivadhanabhakdi Foundation, Singapore",
+        "desc": "SGP019",
+        "key": 4
+    },
+    {
+        "lat": "1.3204355",
+        "lng": "103.9428011",
+        "title": "Bedok South Road, Block 71 HDB Bedok South, Singapore",
+        "desc": "E-waste bin - Siglap Lucky Valley RC",
+        "key": 5
+    },
+    {
+        "lat": "1.364645",
+        "lng": "103.8923352",
+        "title": "Hougang Avenue 3, Hougang CC, Singapore",
+        "desc": "SGP021",
+        "key": 6
+    },
+    {
+        "lat": "1.3644202",
+        "lng": "103.9915308",
+        "title": "Airport Boulevard, Changi Airport Singapore (SIN), Singapore",
+        "desc": "SGP022",
+        "key": 7
+    },
+    {
+        "lat": "1.2810987",
+        "lng": "103.8521397",
+        "title": "Raffles Quay, One Raffles Quay, Singapore",
+        "desc": "SGP023",
+        "key": 8
+    },
+    {
+        "lat": "1.4307062",
+        "lng": "103.8385633",
+        "title": "1 Yishun Avenue 9, Singapore",
+        "desc": "E-waste bin - Nee Soon East CC",
+        "key": 9
+    },
+    {
+        "lat": "1.4506204",
+        "lng": "103.8109395",
+        "title": "20 Woodlands Link, Singapore",
+        "desc": "SGP025",
+        "key": 10
+    },
+    {
+        "lat": "1.4363967",
+        "lng": "103.8379745",
+        "title": "Yishun Street 22, Block 293, Singapore",
+        "desc": "SGP026",
+        "key": 11
+    },
+    {
+        "lat": "1.32374",
+        "lng": "103.9349004",
+        "title": "New Upper Changi Road, Block 28, Singapore",
+        "desc": "SGP027",
+        "key": 12
+    },
+    {
+        "lat": "1.3605635",
+        "lng": "103.8378794",
+        "title": "Sin Ming Drive, Esteem Performance, Singapore",
+        "desc": "SGP028",
+        "key": 13
+    },
+    {
+        "lat": "1.305268",
+        "lng": "103.9157636",
+        "title": "Marine Parade Town Council, Singapore",
+        "desc": "SGP029",
+        "key": 14
+    },
+    {
+        "lat": "1.3162195",
+        "lng": "103.8502213",
+        "title": "Cambridge Road, Pek Kio Market & Food Centre, Singapore",
+        "desc": "SGP030",
+        "key": 15
+    },
+    {
+        "lat": "1.3806847",
+        "lng": "103.9031423",
+        "title": "Sengkang East Avenue, Riversound Residence, Singapore",
+        "desc": "SGP032",
+        "key": 16
+    },
+    {
+        "lat": "1.3648449",
+        "lng": "103.8925591",
+        "title": "35 Hougang Avenue 3, Singapore",
+        "desc": "E-waste bin - Hougang CC",
+        "key": 17
+    },
+    {
+        "lat": "1.3160702",
+        "lng": "103.8909865",
+        "title": "Lorong 39 Geylang, Sims Residences, Singapore",
+        "desc": "SGP034",
+        "key": 18
+    },
+    {
+        "lat": "1.3587099",
+        "lng": "103.845681",
+        "title": "Bishan Street 22, Thomson Community Club, Singapore",
+        "desc": "SGP035",
+        "key": 19
+    },
+    {
+        "lat": "1.4371235",
+        "lng": "103.7944812",
+        "title": "887C Woodlands Drive 50, Singapore",
+        "desc": "SGP036",
+        "key": 20
+    },
+    {
+        "lat": "1.4154318",
+        "lng": "103.8350761",
+        "title": "Yishun Street 81, Block 844, Singapore ",
+        "desc": "SGP037",
+        "key": 21
+    },
+    {
+        "lat": "1.3922624",
+        "lng": "103.9044463",
+        "title": "Rivervale Crescent, Rivervale Mall, Singapore",
+        "desc": "SGP038",
+        "key": 22
+    },
+    {
+        "lat": "1.3503069",
+        "lng": "103.7462052",
+        "title": "Bukit Batok West Avenue 6, Block 118 HDB Bukit Batok West, Singapore",
+        "desc": "SGP039",
+        "key": 23
+    },
+    {
+        "lat": "1.427632",
+        "lng": "103.8340275",
+        "title": "751 Yishun Street 72, Singapore",
+        "desc": "SGP040",
+        "key": 24
+    },
+    {
+        "lat": "1.2801753",
+        "lng": "103.8541595",
+        "title": "Marina Boulevard, MBFC Tower 1, Singapore",
+        "desc": "SGP041",
+        "key": 25
+    },
+    {
+        "lat": "1.3266904",
+        "lng": "103.8546687",
+        "title": "Kim Keat Road, NKF Centre, Singapore",
+        "desc": "SGP042",
+        "key": 26
+    },
+    {
+        "lat": "1.3613317",
+        "lng": "103.8415004",
+        "title": "Sin Ming Avenue, Marymount Community Club, Singapore",
+        "desc": "SGP043",
+        "key": 27
+    },
+    {
+        "lat": "1.3499186",
+        "lng": "103.9328341",
+        "title": "827 Tampines Street 81, Singapore",
+        "desc": "SGP044",
+        "key": 28
+    },
+    {
+        "lat": "1.3078928",
+        "lng": "103.8798278",
+        "title": "Mountbatten Road, The Singapore Association For The Deaf, Singapore",
+        "desc": "SGP045",
+        "key": 29
+    },
+    {
+        "lat": "1.28317",
+        "lng": "103.8177388",
+        "title": "166 Bukit Merah Central, Singapore",
+        "desc": "SGP046",
+        "key": 30
+    },
+    {
+        "lat": "1.3542904",
+        "lng": "103.9379194",
+        "title": "Tampines Avenue 5, Block 858, Singapore",
+        "desc": "SGP047",
+        "key": 31
+    },
+    {
+        "lat": "1.4247207",
+        "lng": "103.8467951",
+        "title": "414 Yishun Ring Road, Singapore",
+        "desc": "SGP048",
+        "key": 32
+    },
+    {
+        "lat": "1.2790221",
+        "lng": "103.8544967",
+        "title": "Marina Boulevard, MBFC Tower 3, Singapore",
+        "desc": "SGP049",
+        "key": 33
+    },
+    {
+        "lat": "1.4309556",
+        "lng": "103.8278301",
+        "title": "101 Yishun Avenue 5, Singapore",
+        "desc": "SGP050",
+        "key": 34
+    },
+    {
+        "lat": "1.346859",
+        "lng": "103.944446",
+        "title": "139 Tampines Street 11, Singapore",
+        "desc": "SGP051",
+        "key": 35
+    },
+    {
+        "lat": "1.4333367",
+        "lng": "103.7746749",
+        "title": "Woodlands Street 13, Block 160, Singapore",
+        "desc": "SGP052",
+        "key": 36
+    },
+    {
+        "lat": "1.3531703",
+        "lng": "103.9541458",
+        "title": "201E Tampines Street 23, Singapore",
+        "desc": "SGP053",
+        "key": 37
+    },
+    {
+        "lat": "1.3604737",
+        "lng": "103.9356696",
+        "title": "602a Tampines Avenue 9, Singapore",
+        "desc": "SGP054",
+        "key": 38
+    },
+    {
+        "lat": "1.4298617",
+        "lng": "103.7752761",
+        "title": "306A Woodlands Street 31, Singapore",
+        "desc": "SGP055",
+        "key": 39
+    },
+    {
+        "lat": "1.3991659",
+        "lng": "103.7470642",
+        "title": "Choa Chu Kang Street 62, Block 621, Singapore",
+        "desc": "SGP056",
+        "key": 40
+    },
+    {
+        "lat": "1.3166154",
+        "lng": "103.8072719",
+        "title": "Farrer Road, Block 5, Singapore",
+        "desc": "SGP057",
+        "key": 41
+    },
+    {
+        "lat": "1.3962317",
+        "lng": "103.7460577",
+        "title": "562 Choa Chu Kang Street 52, Singapore",
+        "desc": "SGP058",
+        "key": 42
+    },
+    {
+        "lat": "1.276057",
+        "lng": "103.8423628",
+        "title": "Tanjong Pagar Plaza, Block 4 HDB Tanjong Pagar, Singapore",
+        "desc": "SGP059",
+        "key": 43
+    },
+    {
+        "lat": "1.360422",
+        "lng": "103.9532611",
+        "title": "475 Tampines Street 44, Singapore",
+        "desc": "SGP060",
+        "key": 44
+    },
+    {
+        "lat": "1.350066",
+        "lng": "103.896786",
+        "title": "540 Airport Road, Singapore",
+        "desc": "SGP061",
+        "key": 45
+    },
+    {
+        "lat": "1.3155926",
+        "lng": "103.8488257",
+        "title": "Cambridge Road, Block 40, Singapore",
+        "desc": "SGP062",
+        "key": 46
+    },
+    {
+        "lat": "1.3051989",
+        "lng": "103.8622336",
+        "title": "463 Crawford Lane, Singapore",
+        "desc": "SGP063",
+        "key": 47
+    },
+    {
+        "lat": "1.3022366",
+        "lng": "103.7976957",
+        "title": "88 Tanglin Halt Road, Singapore",
+        "desc": "SGP064",
+        "key": 48
+    },
+    {
+        "lat": "1.322333",
+        "lng": "103.8700432",
+        "title": "68 Geylang Bahru, Singapore",
+        "desc": "SGP065",
+        "key": 49
+    },
+    {
+        "lat": "1.3357049",
+        "lng": "103.8658404",
+        "title": "143 Potong Pasir Avenue 1, Singapore",
+        "desc": "SGP066",
+        "key": 50
+    },
+    {
+        "lat": "1.3416644",
+        "lng": "103.6897789",
+        "title": "931 Jurong West Street 92, Singapore",
+        "desc": "SGP067",
+        "key": 51
+    },
+    {
+        "lat": "1.2874677",
+        "lng": "103.8409225",
+        "title": "54 Chin Swee Road, Singapore",
+        "desc": "SGP068",
+        "key": 52
+    },
+    {
+        "lat": "1.3187301",
+        "lng": "103.8628342",
+        "title": "25 Bendemeer Road, Singapore",
+        "desc": "SGP069",
+        "key": 53
+    },
+    {
+        "lat": "1.350066",
+        "lng": "103.896786",
+        "title": "540 Airport Road, Singapore",
+        "desc": "SGP070",
+        "key": 54
+    },
+    {
+        "lat": "1.3410628",
+        "lng": "103.7053421",
+        "title": "688 Jurong West Central 1, Singapore",
+        "desc": "SGP071",
+        "key": 55
+    },
+    {
+        "lat": "1.3462076",
+        "lng": "103.7124343",
+        "title": "221 Boon Lay Place, Singapore",
+        "desc": "SGP072",
+        "key": 56
+    },
+    {
+        "lat": "1.2739306",
+        "lng": "103.8089365",
+        "title": "Telok Blangah Drive, Block 77, Singapore",
+        "desc": "SGP073",
+        "key": 57
+    },
+    {
+        "lat": "1.4502688",
+        "lng": "103.8228497",
+        "title": "505 Canberra Link, Singapore",
+        "desc": "SGP074",
+        "key": 58
+    },
+    {
+        "lat": "1.3037847",
+        "lng": "103.7642661",
+        "title": "726 Clementi West Street 2, Singapore",
+        "desc": "SGP075",
+        "key": 59
+    },
+    {
+        "lat": "1.4280868",
+        "lng": "103.793055",
+        "title": "541 Woodlands Drive 16, Singapore",
+        "desc": "SGP076",
+        "key": 60
+    },
+    {
+        "lat": "1.4394663",
+        "lng": "103.7922303",
+        "title": "852 Woodlands Street 83, Singapore",
+        "desc": "SGP077",
+        "key": 61
+    },
+    {
+        "lat": "1.4472968",
+        "lng": "103.8025195",
+        "title": "782A Woodlands Crescent, Singapore",
+        "desc": "SGP078",
+        "key": 62
+    },
+    {
+        "lat": "1.4459989",
+        "lng": "103.8195145",
+        "title": "319 Sembawang Close, Singapore",
+        "desc": "SGP079",
+        "key": 63
+    },
+    {
+        "lat": "1.3688487",
+        "lng": "103.8345779",
+        "title": "260 Ang Mo Kio Street 21, Singapore",
+        "desc": "SGP080",
+        "key": 64
+    },
+    {
+        "lat": "1.3737658",
+        "lng": "103.8456287",
+        "title": "730 Ang Mo Kio Avenue 6, Singapore",
+        "desc": "SGP081",
+        "key": 65
+    },
+    {
+        "lat": "1.3647006",
+        "lng": "103.8485727",
+        "title": "342 Ang Mo Kio Avenue 1, Singapore",
+        "desc": "SGP082",
+        "key": 66
+    },
+    {
+        "lat": "1.3726499",
+        "lng": "103.8549087",
+        "title": "528 Ang Mo Kio Avenue 10, Singapore",
+        "desc": "SGP083",
+        "key": 67
+    },
+    {
+        "lat": "1.328628",
+        "lng": "103.844134",
+        "title": "106 Jalan Dusun, Singapore",
+        "desc": "SGP084",
+        "key": 68
+    },
+    {
+        "lat": "1.307754",
+        "lng": "103.8849964",
+        "title": "39 Jalan Tiga, Singapore",
+        "desc": "SGP085",
+        "key": 69
+    },
+    {
+        "lat": "1.3236672",
+        "lng": "103.8855345",
+        "title": "89 Circuit Road, Singapore",
+        "desc": "SGP086",
+        "key": 70
+    },
+    {
+        "lat": "1.3147975",
+        "lng": "103.895776",
+        "title": "10 Haig Road, Singapore",
+        "desc": "SGP087",
+        "key": 71
+    },
+    {
+        "lat": "1.3644202",
+        "lng": "103.9915308",
+        "title": "Airport Boulevard, Changi Airport Singapore (SIN), Singapore",
+        "desc": "SGP088",
+        "key": 72
+    },
+    {
+        "lat": "1.3520076",
+        "lng": "103.8721721",
+        "title": "264 Serangoon Central, Singapore",
+        "desc": "SGP089",
+        "key": 73
+    },
+    {
+        "lat": "1.3347903",
+        "lng": "103.8491124",
+        "title": "79D Toa Payoh Central, Singapore",
+        "desc": "SGP090",
+        "key": 74
+    },
+    {
+        "lat": "1.3348962",
+        "lng": "103.8568246",
+        "title": "19A Lorong 7 Toa Payoh, Singapore",
+        "desc": "SGP091",
+        "key": 75
+    },
+    {
+        "lat": "1.3504111",
+        "lng": "103.8511785",
+        "title": "191 Bishan Street 13, Singapore",
+        "desc": "SGP092",
+        "key": 76
+    },
+    {
+        "lat": "1.3579846",
+        "lng": "103.8446775",
+        "title": "282 Bishan Street 22, Singapore",
+        "desc": "SGP093",
+        "key": 77
+    },
+    {
+        "lat": "1.3363236",
+        "lng": "103.8439085",
+        "title": "Lorong 1A Toa Payoh, The Peak, Toa Payoh, Singapore",
+        "desc": "SGP094",
+        "key": 78
+    },
+    {
+        "lat": "1.3436236",
+        "lng": "103.7376889",
+        "title": "254 Jurong East Street 24, Singapore",
+        "desc": "SGP095",
+        "key": 79
+    },
+    {
+        "lat": "1.3360043",
+        "lng": "103.7213642",
+        "title": "359 Yung An Road, Singapore",
+        "desc": "SGP096",
+        "key": 80
+    },
+    {
+        "lat": "1.3493318",
+        "lng": "103.7591068",
+        "title": "268 Bukit Batok East Avenue 4, Singapore",
+        "desc": "SGP097",
+        "key": 81
+    },
+    {
+        "lat": "1.3501174",
+        "lng": "103.7499651",
+        "title": "630 Bukit Batok Central, Singapore",
+        "desc": "SGP098",
+        "key": 82
+    },
+    {
+        "lat": "1.3134143",
+        "lng": "103.7648974",
+        "title": "449 Clementi Avenue 3, Singapore",
+        "desc": "SGP099",
+        "key": 83
+    },
+    {
+        "lat": "1.3489422",
+        "lng": "103.724983",
+        "title": "493a Jurong West Street 41, Singapore",
+        "desc": "SGP100",
+        "key": 84
+    },
+    {
+        "lat": "1.3531198",
+        "lng": "103.8877113",
+        "title": "116 Hougang Avenue 1, Singapore",
+        "desc": "E-waste bin - Paya Lebar Zone 5 RC",
+        "key": 85
+    },
+    {
+        "lat": "1.3835729",
+        "lng": "103.7699431",
+        "title": "440 Fajar Road, Singapore",
+        "desc": "SGP102",
+        "key": 86
+    },
+    {
+        "lat": "1.3106477",
+        "lng": "103.7884371",
+        "title": "21 Ghim Moh Road, Singapore",
+        "desc": "SGP103",
+        "key": 87
+    },
+    {
+        "lat": "1.3861482",
+        "lng": "103.7658027",
+        "title": "524 Jelapang Road, Singapore",
+        "desc": "SGP104",
+        "key": 88
+    },
+    {
+        "lat": "1.3431104",
+        "lng": "103.9538749",
+        "title": "248 Simei Street 3, Singapore",
+        "desc": "SGP105",
+        "key": 89
+    },
+    {
+        "lat": "1.3790528",
+        "lng": "103.7648188",
+        "title": "180 Lompang Road, Singapore",
+        "desc": "SGP106",
+        "key": 90
+    },
+    {
+        "lat": "1.378973",
+        "lng": "103.9371942",
+        "title": "736A Pasir Ris Drive 10, Singapore",
+        "desc": "SGP107",
+        "key": 91
+    },
+    {
+        "lat": "1.3997603",
+        "lng": "103.9195424",
+        "title": "658 Punggol East, Singapore",
+        "desc": "SGP108",
+        "key": 92
+    },
+    {
+        "lat": "1.3703412",
+        "lng": "103.9507689",
+        "title": "534 Pasir Ris Drive 1, Singapore",
+        "desc": "SGP109",
+        "key": 93
+    },
+    {
+        "lat": "1.3692862",
+        "lng": "103.9573534",
+        "title": "443 Pasir Ris Drive 6, Singapore",
+        "desc": "SGP110",
+        "key": 94
+    },
+    {
+        "lat": "1.4069401",
+        "lng": "103.901484",
+        "title": "69 Punggol Central, Watertown, Singapore",
+        "desc": "SGP111",
+        "key": 95
+    },
+    {
+        "lat": "1.2930905",
+        "lng": "103.7999624",
+        "title": "Queen's Close, Singapore",
+        "desc": "SGP112",
+        "key": 96
+    },
+    {
+        "lat": "1.3947956",
+        "lng": "103.9133568",
+        "title": "171c Edgedale Plains, Singapore",
+        "desc": "SGP113",
+        "key": 97
+    },
+    {
+        "lat": "1.3060951",
+        "lng": "103.8337401",
+        "title": "14 Scotts Road, Singapore",
+        "desc": "SGP114",
+        "key": 98
+    },
+    {
+        "lat": "1.3221996",
+        "lng": "103.854823",
+        "title": "93 Whampoa Drive, Singapore",
+        "desc": "SGP115",
+        "key": 99
+    },
+    {
+        "lat": "1.3783006",
+        "lng": "103.7445976",
+        "title": "251 Choa Chu Kang Avenue 2, Singapore",
+        "desc": "SGP116",
+        "key": 100
+    },
+    {
+        "lat": "1.3258997",
+        "lng": "103.9315312",
+        "title": "212 Bedok North Street 1, Singapore",
+        "desc": "SGP117",
+        "key": 101
+    },
+    {
+        "lat": "1.40797",
+        "lng": "103.8991189",
+        "title": "308C Punggol Walk, Singapore",
+        "desc": "SGP118",
+        "key": 102
+    },
+    {
+        "lat": "1.3758221",
+        "lng": "103.7501624",
+        "title": "818 Keat Hong Link, Singapore",
+        "desc": "SGP119",
+        "key": 103
+    },
+    {
+        "lat": "1.3815818",
+        "lng": "103.7445298",
+        "title": "223 Choa Chu Kang Central, Singapore",
+        "desc": "SGP120",
+        "key": 104
+    },
+    {
+        "lat": "1.3199165",
+        "lng": "103.7657373",
+        "title": "311c Clementi Avenue 4, Singapore",
+        "desc": "SGP121",
+        "key": 105
+    },
+    {
+        "lat": "1.3556983",
+        "lng": "103.7392906",
+        "title": "440 Bukit Batok West Avenue 8, Singapore",
+        "desc": "SGP122",
+        "key": 106
+    },
+    {
+        "lat": "1.2998645",
+        "lng": "103.7883994",
+        "title": "Fusionopolis Place, Galaxis, Singapore",
+        "desc": "SGP123",
+        "key": 107
+    },
+    {
+        "lat": "1.3231895",
+        "lng": "103.9122693",
+        "title": "114 Lengkong Tiga, Singapore",
+        "desc": "SGP124",
+        "key": 108
+    },
+    {
+        "lat": "1.310458",
+        "lng": "103.8641669",
+        "title": "Kallang Avenue, Aperia Mall, Singapore",
+        "desc": "SGP125",
+        "key": 109
+    },
+    {
+        "lat": "1.3501699",
+        "lng": "103.8614704",
+        "title": "220 Lorong Chuan, Singapore",
+        "desc": "SGP126",
+        "key": 110
+    },
+    {
+        "lat": "1.2898359",
+        "lng": "103.8278754",
+        "title": "51 Havelock Road, Singapore",
+        "desc": "SGP127",
+        "key": 111
+    },
+    {
+        "lat": "1.3220967",
+        "lng": "103.7384605",
+        "title": "61 Teban Gardens Road, Singapore",
+        "desc": "SGP128",
+        "key": 112
+    },
+    {
+        "lat": "1.3186727",
+        "lng": "103.9466279",
+        "title": "153 Bedok South Road, Singapore",
+        "desc": "SGP129",
+        "key": 113
+    },
+    {
+        "lat": "1.3934754",
+        "lng": "103.9135381",
+        "title": "80 Punggol Field, Singapore",
+        "desc": "E-waste bin - Punggol 21 CC",
+        "key": 114
+    },
+    {
+        "lat": "1.3322779",
+        "lng": "103.6786505",
+        "title": "510 Upper Jurong Road, Singapore",
+        "desc": "SGP131",
+        "key": 115
+    },
+    {
+        "lat": "1.4298617",
+        "lng": "103.7752761",
+        "title": "306A Woodlands Street 31, Singapore",
+        "desc": "SGT001",
+        "key": 116
+    },
+    {
+        "lat": "1.4375818",
+        "lng": "103.7945491",
+        "title": "887 Woodlands Drive 50, Singapore",
+        "desc": "E-waste bin - Action for Green Town (AGT)",
+        "key": 117
+    },
+    {
+        "lat": "1.302084",
+        "lng": "103.8377866",
+        "title": "250 Orchard Road, Singapore",
+        "desc": "SGT003",
+        "key": 118
+    },
+    {
+        "lat": "1.3060951",
+        "lng": "103.8337401",
+        "title": "14 Scotts Road, Singapore",
+        "desc": "SGT005",
+        "key": 119
+    },
+    {
+        "lat": "1.4333367",
+        "lng": "103.7746749",
+        "title": "Woodlands Street 13, Block 160, Singapore",
+        "desc": "E-waste bin - Action for Green Town (AGT)",
+        "key": 120
+    },
+    {
+        "lat": "1.3726499",
+        "lng": "103.8549087",
+        "title": "528 Ang Mo Kio Avenue 10, Singapore",
+        "desc": "SGT007",
+        "key": 121
+    },
+    {
+        "lat": "1.3962317",
+        "lng": "103.7460577",
+        "title": "562 Choa Chu Kang Street 52, Singapore",
+        "desc": "SGT010",
+        "key": 122
+    },
+    {
+        "lat": "1.3309428",
+        "lng": "103.9381007",
+        "title": "116 Bedok North Road, Singapore",
+        "desc": "SGT011",
+        "key": 123
+    },
+    {
+        "lat": "1.3037847",
+        "lng": "103.7642661",
+        "title": "726 Clementi West Street 2, Singapore",
+        "desc": "SGT013",
+        "key": 124
+    },
+    {
+        "lat": "1.3462076",
+        "lng": "103.7124343",
+        "title": "221 Boon Lay Place, Singapore",
+        "desc": "SGT015",
+        "key": 125
+    },
+    {
+        "lat": "1.3441277",
+        "lng": "103.7347086",
+        "title": "Jurong East Avenue 1, Singapore",
+        "desc": "SGEW014",
+        "key": 126
+    },
+    {
+        "lat": "1.4298617",
+        "lng": "103.7752761",
+        "title": "306A Woodlands Street 31, Singapore",
+        "desc": "SGEW008",
+        "key": 127
+    },
+    {
+        "lat": "1.3196374",
+        "lng": "103.9449899",
+        "title": "Bedok South Avenue 3, Block 167, Singapore",
+        "desc": "E-waste bin - Siglap East RC",
+        "key": 128
+    },
+    {
+        "lat": "1.3309428",
+        "lng": "103.9381007",
+        "title": "Bedok North Road, Block 116, Singapore",
+        "desc": "E-waste bin - Bedok Town",
+        "key": 129
+    },
+    {
+        "lat": "1.2991152",
+        "lng": "103.8014772",
+        "title": "365 Commonwealth Avenue, Singapore",
+        "desc": "E-waste bin - Queenstown CC",
+        "key": 130
+    },
+    {
+        "lat": "1.3589417",
+        "lng": "103.749463",
+        "title": "30 Bukit Batok Street 31, Singapore",
+        "desc": "E-waste bin - Hong Kah North CC",
+        "key": 131
+    },
+    {
+        "lat": "1.3766787",
+        "lng": "103.7492819",
+        "title": "Keat Hong Link, Blk 817 Keat Hong Link Multi-Storey Car Park, Singapore",
+        "desc": "E-waste bin - Choa Chu Kang Town",
+        "key": 132
+    },
+    {
+        "lat": "1.3815941",
+        "lng": "103.7445966",
+        "title": "Choa Chu Kang Central, Block 223, Choa Chu Kang, Singapore",
+        "desc": "E-waste bin - Choa Chu Kang Town",
+        "key": 133
+    },
+    {
+        "lat": "1.4000251",
+        "lng": "103.7461197",
+        "title": "621 Choa Chu Kang Street 62, Singapore",
+        "desc": "E-waste bin - Action for Green Town (AGT)",
+        "key": 134
+    },
+    {
+        "lat": "1.3962311",
+        "lng": "103.746057",
+        "title": "562 Choa Chu Kang Street 52, Singapore",
+        "desc": "E-waste bin - Action for Green Town (AGT)",
+        "key": 135
+    },
+    {
+        "lat": "1.3835729",
+        "lng": "103.7699431",
+        "title": "Fajar Road, Block 440, Singapore",
+        "desc": "E-waste bin - Bukit Panjang Town",
+        "key": 136
+    },
+    {
+        "lat": "1.3861482",
+        "lng": "103.7658027",
+        "title": "524 Jelapang Road, Singapore",
+        "desc": "E-waste bin - Bukit Panjang Town",
+        "key": 137
+    },
+    {
+        "lat": "1.3790528",
+        "lng": "103.7648188",
+        "title": "Lompang Road, Block 180, Singapore",
+        "desc": "E-waste bin - Bukit Panjang Town",
+        "key": 138
+    },
+    {
+        "lat": "1.3196969",
+        "lng": "103.7674786",
+        "title": "331 Clementi Avenue 4, Singapore",
+        "desc": "E-waste bin - Clementi Town",
+        "key": 139
+    }
+]

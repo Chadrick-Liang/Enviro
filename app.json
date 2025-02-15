@@ -1,0 +1,76 @@
+{
+  "expo": {
+    "name": "Enviro",
+    "slug": "Enviro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera",
+          "microphonePermission": "Allow $(PRODUCT_NAME) to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow $(PRODUCT_NAME) to access your photos.",
+          "savePhotosPermission": "Allow $(PRODUCT_NAME) to save photos.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/sf.OTF"]
+        }
+      ]
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Step Tracker is running",
+        "NSLocationAlwaysUsageDescription": "Step Tracker is running even when the app is in the background.",
+        "UIBackgroundModes": ["location", "fetch"]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_BACKGROUND_LOCATION"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "YOUR_GOOGLE_MAPS_API_KEY"
+        },
+        "permissions": [
+          "android.permission.ACCESS_FINE_LOCATION",
+          "android.permission.ACCESS_COARSE_LOCATION",
+          "android.permission.ACCESS_BACKGROUND_LOCATION"
+        ]
+      },
+      "package": "com.yourcompany.enviro"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
