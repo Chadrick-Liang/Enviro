@@ -72,9 +72,11 @@ export default function Identifier({ navigation }) {
           console.log(`the answer is ${jsonResult.isRecyclable}`)
 
           if (jsonResult.isRecyclable == 'yes' || jsonResult.recyclable == 'yes') {
-            let pointsAwarded = await convertTypeToPoints(userID, jsonResult.materialType)
-            await addMaterialPoints(userID, pointsAwarded, jsonResult.materialType)
-            navigation.push('Recyclable', { uri: photoUri, pointsAwarded });
+            //since firebase disabled, turn off points award query.
+            //let pointsAwarded = await convertTypeToPoints(userID, jsonResult.materialType)
+            //await addMaterialPoints(userID, pointsAwarded, jsonResult.materialType)
+            //navigation.push('Recyclable', { uri: photoUri, pointsAwarded });
+            navigation.push('Recyclable', { uri: photoUri});
           } else {
             navigation.push('Not Recyclable', { uri: photoUri });
           } 
