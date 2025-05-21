@@ -55,8 +55,8 @@ track carbon emissions saved by travelling without vehicles and visualize their 
   <img src="/README_images/leaderboard.png" alt="leaderboard page" width="200" height="444"/>
 
 - **Sanctuary**  
-  • Mini environment that reflects user's environmental actions through the app 
-  • High amount of eco points results in thriving sanctuary while too low an amount will result in a polluted sanctuary
+  • Mini environment that reflects user's environmental actions through the app<br>
+  • High amount of eco points results in thriving sanctuary while too low an amount will result in a polluted sanctuary<br>
   • Virutal visualization to encourage users' to consider the impact of their actions
   
   <br>
