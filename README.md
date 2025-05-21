@@ -5,6 +5,14 @@ track carbon emissions saved by travelling without vehicles and visualize their 
 
 ---
 
+## Collaborators
+
+- Qiu Zhi Xian
+  
+- Ho Jie Kai
+
+---
+
 ## 🔍 Key Features
 
 - **Secure Authentication**  
