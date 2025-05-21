@@ -72,9 +72,8 @@ track carbon emissions saved by travelling without vehicles and visualize their 
 | **Framework**       | Expo SDK, React Native                                               |
 | **UI & Navigation** | React Navigation                                                     |
 | **State Management**| React Context API + Hooks                                            |
-| **Backend & Auth**  | Firebase Authentication, Firestore (or Realtime Database)            |
+| **Backend & Auth**  | Firebase Authentication, Firestore                                   |
 | **Storage**         | AsyncStorage, Firebase Storage                                       |
-| **Charts & Graphs** | Victory Native (or react-native-chart-kit)                           |
 | **Maps & Location** | expo-location, react-native-maps, Google Maps REST API               |
 | **Networking**      | Axios                                                                |
 
