@@ -11,7 +11,7 @@ track carbon emissions saved by travelling without vehicles and visualize their 
   • Sign up & log in with **Firebase Authentication** (email/password, Google)  
   • Secure logout and session management
   <br>
-  <img src="/README_images/login.png" alt="login" width="200"/>
+  <img src="README_images/login.png" alt="login" width="200"/>
 
 - **Recylable Identifier**  
   • Snap a picture of trash on hand
