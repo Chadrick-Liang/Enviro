@@ -16,40 +16,40 @@ track carbon emissions saved by travelling without vehicles and visualize their 
 ## 🔍 Key Features
 
 - **Secure Authentication**  
-  • Sign up & log in with **Firebase Authentication** (email/password, Google)  
-  • Secure logout and session management
+  • Sign up & log in with **Firebase Authentication** (email/password, Google)<br>
+  • Secure logout and session management<br>
   
   <br>
   <img src="README_images/login.png" alt="login" width="200" height="444"/>
 
 - **Recylable Identifier**  
-  • Snap a picture of trash on hand
-  • Queries OpenAi Vision model if object is able to be recycled
+  • Snap a picture of trash on hand<br>
+  • Queries OpenAi Vision model if object is able to be recycled<br>
   
   <br>
   <img src="/README_images/identify.png" alt="identifier page" width="200" height="444"/>
   <img src="/README_images/identify2.png" alt="identifier page" width="200" height="444"/>
 
 - **Recycling bin locator**  
-  • Accesses Google's geolocation services to identify current coordinates
-  • Display nearest recyling bins based on current location 
-  • Tapping on a recycling bin provides the shortest path with directions
+  • Accesses Google's geolocation services to identify current coordinates<br>
+  • Display nearest recyling bins based on current location<br>
+  • Tapping on a recycling bin provides the shortest path with directions<br>
   
   <br>
   <img src="/README_images/map.png" alt="map page" width="200" height="444"/>
   <img src="/README_images/directions.png" alt="map page" width="200" height="444"/>
 
 - **Data Visualization**  
-  • Interactive line & bar charts showing trend over time  
-  • Displays the eco points the user gained either by recycling or travelling to places without vehicles 
-  • Performs speed calculations via Google geolocation services to only track distance travelled on foot
+  • Interactive line & bar charts showing trend over time<br>
+  • Displays the eco points the user gained either by recycling or travelling to places without vehicles<br> 
+  • Performs speed calculations via Google geolocation services to only track distance travelled on foot<br>
   
   <br>
   <img src="/README_images/tracker.png" alt="tracker page" width="200" height="444"/>
 
 - **Global Leaderboard**  
-  • Real-time ranking of users by eco pointss  
-  • Powered by **Firebase Firestore**
+  • Real-time ranking of users by eco points<br>
+  • Powered by **Firebase Firestore**<br>
   
   <br>
   <img src="/README_images/leaderboard.png" alt="leaderboard page" width="200" height="444"/>
